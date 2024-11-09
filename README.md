@@ -1,6 +1,7 @@
 # fastapi-start
 
 # 프로젝트 구조 
+```
 project/   
 ├── main.py   
 ├── models.py   
@@ -8,6 +9,7 @@ project/
 ├── crud.py   
 ├── schemas.py   
 └── requirements.txt   
+```
 
 # 프로젝트 실행 방법
 1. 프로젝트 디렉토리로 이동
